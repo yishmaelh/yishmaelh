@@ -1,7 +1,6 @@
 ### "You mustn't let the mistakes of the past weigh you down. Acknowledge them and take what you've learned to move on. That is the privilege of being a man."
 ### - Full Frontal, Mobile Suit Gundam Unicorn
 
-<!--
 **yishmaelh/yishmaelh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -12,4 +11,3 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... My top 5 books, my top 5 anime, or both 🤖
 - 📫 How to reach me: ... yishmael.henderson@gmail.com
 - ⚡ Fun fact: ... I am the middle child of 5️⃣
--->
