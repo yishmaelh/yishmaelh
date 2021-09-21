@@ -8,6 +8,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ...  Intro to Cybersecurity via Codecademy and Hackerrank questions to enhance my skills
 - 🌱 I’m currently learning ... Spring
 - 👯 I’m looking to collaborate on ... back end projects built primarily with JavaScript or Java
-- 💬 Ask me about ... My top 5 books, my top 5 anime, or both 🤖
-- 📫 How to reach me: ... yishmael.henderson@gmail.com
+- 💬 Ask me about ... My top 5 books, my top 5 anime, or both
+- 📫 How to reach me: ... yishmael.henderson@gmail.com, https://www.linkedin.com/in/yishmael-henderson/
 - ⚡ Fun fact: ... I am the middle child of 5️⃣
