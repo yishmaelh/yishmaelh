@@ -8,3 +8,4 @@ My name is Yishmael, but I go by Yish, with a silent "Y." I spent two years in J
 - 💬 Ask me about ... My top 5 books, my top 5 anime, or both
 - 📫 How to reach me: ... yishmael.henderson@gmail.com, https://www.linkedin.com/in/yishmael-henderson/
 - ⚡ Fun fact: ... I am the middle child of 5️⃣
+<iframe src="https://giphy.com/embed/1CEoPFtZIIHbG" width="480" height="322" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/japan-yu-hakusho-yuyu-1CEoPFtZIIHbG">via GIPHY</a></p>
