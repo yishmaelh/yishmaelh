@@ -1,9 +1,5 @@
 ### "You mustn't let the mistakes of the past weigh you down. Acknowledge them and take what you've learned to move on. That is the privilege of being a man." - Full Frontal, Mobile Suit Gundam Unicorn
 
-
-<div style="width:100%;height:0;padding-bottom:67%;position:relative;"><iframe src="https://giphy.com/embed/1CEoPFtZIIHbG" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/japan-yu-hakusho-yuyu-1CEoPFtZIIHbG">via GIPHY</a></p>
-
-
 My name is Yishmael, but I go by Yish, with a silent "Y." I spent two years in Japan, and have made trips to Korea, Thailand, and the Phillippines. I transitioned into software development when I decided to teach myself on Codecademy last year; my plan was to be self taught and eventually make my own game. What was meant to be a hobby quickly became a passion, and I found myself wanting to pursue a career as a developer. 
 
 - 🔭 I’m currently working on ...  Intro to Cybersecurity via Codecademy and Hackerrank questions to enhance my skills
