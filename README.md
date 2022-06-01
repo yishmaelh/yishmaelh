@@ -4,9 +4,9 @@
 
 My name is Yishmael, with a silent "Y", but I go by Yish. I spent two years in Japan, and have made trips to Korea, Thailand, and the Phillippines. I transitioned into software development when I decided to teach myself on Codecademy last year; my plan was to be self taught and eventually make my own game. What was meant to be a hobby quickly became a passion, and I found myself wanting to pursue a career as a developer. 
 
-- 🔭 I’m currently working on ...  MyThyme, a capstone project designed to serve as a digital cookbook and shopping list sharing service.
-- 🌱 I’m currently learning .... Go
-- 👯 I’m looking to collaborate on ... back end projects built primarily with JavaScript or Java
+- 🔭 I’m currently working on ...  Game planning a turn based game built in Unity
+- 🌱 I’m currently learning .... Python and Unity
+- 👯 I’m looking to collaborate on ... back end projects built primarily with Python
 - 💬 Ask me about ... My top 5 books
 - 📫 How to reach me: ... yishmael.henderson@gmail.com, https://www.linkedin.com/in/yishmael-henderson/
 - ⚡ Fun fact: ... I am the middle child of 5️⃣. 
